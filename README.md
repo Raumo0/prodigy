@@ -8,8 +8,9 @@ $ npm install
 
 To develop:
 
-````bash
-$ npm run dev```
+```bash
+$ npm run dev
+```
 
 To build for production:
 
