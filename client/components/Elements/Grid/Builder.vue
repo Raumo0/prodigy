@@ -36,6 +36,7 @@
 </style>
 
 <script>
+// @flow
 import { generateId } from "libs/utils";
 import { mapActions } from "vuex";
 import { GridItem, GridLayout } from "vue-grid-layout";

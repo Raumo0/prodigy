@@ -1,3 +1,4 @@
+// @flow
 export default {
   addComponent(state, { type, ownerSlotId, slotNamesToIds, props }) {
     state.components.push({

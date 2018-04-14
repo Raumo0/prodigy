@@ -1,3 +1,4 @@
+// @flow
 export default {
   methods: {
     onResize(x, y, width, height) {

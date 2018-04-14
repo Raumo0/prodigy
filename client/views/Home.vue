@@ -28,6 +28,7 @@
 </style>
 
 <script>
+// @flow
 import { mapGetters } from "vuex";
 import FactoryElement from "components/Builder/FactoryElement";
 import ChooseLayout from "components/Builder/ChooseLayout";

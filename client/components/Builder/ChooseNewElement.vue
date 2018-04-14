@@ -43,6 +43,7 @@
 </template>
 
 <script>
+// @flow
 import { pickBy, keys } from "lodash";
 import { getConfigElements } from "components/utils";
 import EditElementProps from "./EditElementProps";

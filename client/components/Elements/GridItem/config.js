@@ -1,3 +1,4 @@
+// @flow
 import configCss from "components/Elements/Common/Css/config";
 import { merge } from "lodash";
 

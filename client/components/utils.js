@@ -1,3 +1,4 @@
+// @flow
 import { generateId } from "libs/utils";
 
 const getPropsForBuilder = metaProps =>

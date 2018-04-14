@@ -27,6 +27,7 @@
 </template>
 
 <script>
+// @flow
 import { findKey } from "lodash";
 import { getConfigElements } from "components/utils";
 import { mapActions, mapGetters } from "vuex";

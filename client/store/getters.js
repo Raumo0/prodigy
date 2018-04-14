@@ -1,3 +1,4 @@
+// @flow
 export default {
   rootComponents: state => state.components.filter(item => !item.ownerSlotId),
   getListComponentsByOwnerSlotId: (state, getters) => ownerSlotId =>

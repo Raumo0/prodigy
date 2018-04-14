@@ -3,6 +3,7 @@
 </template>
 
 <script>
+// @flow
 import BaseElement from "components/Builder/BaseElement";
 import EditSlot from "components/Builder/EditSlot";
 import Base from "./Base";

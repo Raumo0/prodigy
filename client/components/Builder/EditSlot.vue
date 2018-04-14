@@ -12,6 +12,7 @@
 </template>
 
 <script>
+// @flow
 import { mapGetters } from "vuex";
 import { getConfigElements } from "components/utils";
 import FactoryElement from "components/Builder/FactoryElement";

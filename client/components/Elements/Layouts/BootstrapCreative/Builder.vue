@@ -6,6 +6,7 @@
 </style>
 
 <script>
+  /* @flow */
 import EditSlot from "components/Builder/EditSlot";
 //  import "font-awesome/css/font-awesome.min.css"
 import "vue-awesome/icons";
