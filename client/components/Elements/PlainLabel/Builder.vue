@@ -1,4 +1,5 @@
 <script>
+// @flow
 import Builder from "components/Elements/Label/Builder";
 
 export default {

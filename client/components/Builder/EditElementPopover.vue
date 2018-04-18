@@ -54,6 +54,7 @@
 </style>
 
 <script>
+// @flow
 import { getElementConfigByType } from "components/utils";
 import { mapState, mapMutations } from "vuex";
 import BaseElement from "./BaseElement";

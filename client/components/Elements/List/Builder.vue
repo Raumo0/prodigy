@@ -31,6 +31,7 @@
 </style>
 
 <script>
+// @flow
 import { mapActions, mapMutations } from "vuex";
 import "vue-awesome/icons";
 import Draggable from "vuedraggable";

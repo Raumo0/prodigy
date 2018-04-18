@@ -1,3 +1,4 @@
+// @flow
 export default {
   SLOT_NAMES: ["items"],
   SLOT_ALLOW_ELEMENTS: {

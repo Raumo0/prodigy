@@ -1,3 +1,4 @@
+// @flow
 import { mapMutations } from "vuex";
 import Base from "components/Elements/Base";
 

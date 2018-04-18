@@ -6,5 +6,6 @@
 </template>
 
 <script>
+// @flow
 export default {};
 </script>

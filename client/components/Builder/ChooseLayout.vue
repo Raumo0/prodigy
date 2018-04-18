@@ -25,6 +25,7 @@
 </template>
 
 <script>
+// @flow
 import { mapActions } from "vuex";
 import { getConfigLayouts, getLayoutElementType } from "components/utils";
 

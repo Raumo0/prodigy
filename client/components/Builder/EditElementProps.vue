@@ -23,6 +23,7 @@
 </template>
 
 <script>
+// @flow
 import {
   getPropertyRulesForBuilder,
   metaPropsByElementType

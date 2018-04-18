@@ -1,3 +1,4 @@
+// @flow
 export default {
   SLOT_NAMES: ["brandName", "header", "headerDesc", "headerMenu", "sections"],
   NAME: "Bootstrap Creative",
